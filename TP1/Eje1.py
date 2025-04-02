@@ -10,4 +10,5 @@ resultado_suma = numero1 + numero2
 resultado_resta = numero1 - numero2 
 
 print(f"Suma: {resultado_suma}") 
+
 print(f"Resta: {resultado_resta}") 
