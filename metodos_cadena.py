@@ -5,11 +5,11 @@ dato3 = 5.3
 
 #Dir: Devuelve una lista con los nombres de todos los métodos y atributos del objeto
 dir(dato)
-# print(dir(dato))
+
 
 #upper: Devuelve una cadena con todos los caracteres en mayúscula
 dato.upper()
-# print(dato.upper())
+
 
 #lower: Devuelve una cadena con todos los caracteres en minúscula
 dato.lower()
@@ -54,6 +54,4 @@ dato.strip()
 #join: Une una lista de cadenas en una cadena
 dato.join(["hola", "estoy", "estudiando", "python"])
 
-#format: Formatea una cadena
 
-#
