@@ -6,3 +6,5 @@ mi_diccionario = {}
 
 #Crear diccionarios con fromkeys()
 mi_diccionario = dict.fromkeys(["nombre", "edad", "ciudad"])
+
+#asignar valores a las claves del diccionario

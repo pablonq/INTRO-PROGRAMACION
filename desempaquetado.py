@@ -6,3 +6,4 @@ nombre, edad, profesion, estado_civil = datos
 print(datos)
 
 # Desempaquetado de una lista
+

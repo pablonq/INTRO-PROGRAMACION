@@ -8,3 +8,6 @@ if "@" in email and email.endswith(".com"):
     print(f"El email {email} es valido")
 else:
     print(f"El email {email} es invalido")
+
+#buscar el @ y el .com en lista_email
+

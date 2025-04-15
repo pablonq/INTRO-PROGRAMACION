@@ -2,7 +2,8 @@ mi_lista = [1, 2, 3, 4, 5]
 mi_lista2 = ["manzana", "pera", "uva"]  
 
 #len: devuelve el número de elementos de la lista
-mi_lista.len()
+len(mi_lista)
+len(mi_lista2)
 
 
 #append: agrega un elemento al final de la lista
